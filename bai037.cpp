@@ -8,6 +8,5 @@ int main()
     }while(n<=0);
     while(s+m<n){
         cout << m << " + ";
-        s +=
     }
 }
